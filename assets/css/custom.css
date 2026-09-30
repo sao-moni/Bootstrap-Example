@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "Battambang";
+    src: url("../fonts/Battambang/Battambang-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: "koulen";
+    src: url("../fonts/koulen/Koulen-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Googlesans";
+    src: url("../fonts/Google_Sans/static/GoogleSans_17pt-Medium.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Googlesanssemibold";
+    src: url("../fonts/Google_Sans/static/GoogleSans-SemiBold.ttf") format("truetype");
+}
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Googlesans", sans-serif;
+    color: #000;
+}
+body {
+    font-family: "Battambang", sans-serif;
+    color: #000;
+}
+.nav-link {
+    font-family: "Googlesans", sans-serif;
+    color: #000;
+}
